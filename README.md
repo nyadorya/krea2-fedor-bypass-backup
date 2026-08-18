@@ -41,6 +41,14 @@ Early Access"`)になった。代替として同等の効果を持つ
   (リポジトリライセンス: `creativeml-openrail-m`)
 - 対象モデル: forge(SDXL系ベース)プロファイル用
 
+## バックアップ見送り(出典記録のみ)
+
+### BracingEvoMix_v1.safetensors
+- 出典: https://huggingface.co/sazyou-roukaku/BracingEvoMix/resolve/main/BracingEvoMix_v1.safetensors
+- サイズ: 約2.03GB(2,132,627,500 bytes、2026-08-18確認)
+- forgeプロファイルのベースcheckpoint。GitHub無料枠のGit LFS(ストレージ1GB・帯域1GB/月)を
+  超過するため、本体のバックアップは見送り。URLのみ記録。
+
 ## 用途
 
 vast.ai上でForge Neoを起動する個人用CLIでの利用を想定した個人バックアップ。
